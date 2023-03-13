@@ -7,7 +7,7 @@
 }
 
 body {
-	background:#3e4144;
+	background:#7EB6EF;
 	background-size: cover;
 	background-attachment: fixed;
 	font-family:'Open Sans',Sans-serif, Arial, Helvetica;
@@ -35,6 +35,7 @@ a {	text-decoration: none; }
 	border-radius: 5px;
 	overflow: hidden;
 	z-index: 1000;
+	box-shadow: 15px 18px 39px 4px rgba(0,0,0,0.75);
 }
 
 
